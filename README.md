@@ -20,4 +20,4 @@ JSON API 请参照 https://github.com/tencentyun/cos-java-sdk-v4
 下的示例代码
 
 ## 常见问题:
-请参考[FAQ](https://cloud.tencent.com/document/product/436/12263#faq)
+请参考[FAQ](https://cloud.tencent.com/document/product/436/12263#faq)!!
